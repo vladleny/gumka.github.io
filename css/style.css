@@ -406,6 +406,10 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 10px;
 }
 
+.column__title {
+  padding-top: 10px;
+}
+
 .c-icon {
   display: -ms-grid;
   display: grid;
